@@ -1,6 +1,6 @@
 {
-  "name": "bytegain-send-json",
-  "version": "3.0.0",
+  "name": "bg-send-json",
+  "version": "3.0.1",
   "description": "send json across all browsers",
   "keywords": [
     "json",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ByteGain/send-json"
+    "url": "https://github.com/ByteGain/bg-send-json"
   },
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/ByteGain/send-json/issues"
+    "url": "https://github.com/ByteGain/bg-send-json/issues"
   },
-  "homepage": "https://github.com/ByteGain/send-json#readme",
+  "homepage": "https://github.com/ByteGain/bg-send-json#readme",
   "dependencies": {
     "@segment/base64-encode": "^2.0.2",
     "has-cors": "^1.1.0",
