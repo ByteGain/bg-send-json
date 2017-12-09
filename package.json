@@ -1,5 +1,5 @@
 {
-  "name": "@segment/send-json",
+  "name": "bytegain-send-json",
   "version": "3.0.0",
   "description": "send json across all browsers",
   "keywords": [
@@ -12,18 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/send-json"
+    "url": "https://github.com/ByteGain/send-json"
   },
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segmentio/send-json/issues"
+    "url": "https://github.com/ByteGain/send-json/issues"
   },
-  "homepage": "https://github.com/segmentio/send-json#readme",
+  "homepage": "https://github.com/ByteGain/send-json#readme",
   "dependencies": {
     "@segment/base64-encode": "^2.0.2",
     "has-cors": "^1.1.0",
-    "json3": "^3.3.2",
     "jsonp": "^0.2.0"
   },
   "devDependencies": {
